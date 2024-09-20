@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wilhelmus Ole Jr</h1>
 <h3 align="center">A passionate and motivated junior full stack web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wilhelmusolejr&label=Profile%20views&color=0e75b6&style=flat" alt="wilhelmusolejr" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wilhelmusolejr" alt="wilhelmusolejr" /></a> </p>
-
 - 🔭 I’m currently working on [portfoliov3](https://github.com/wilhelmusolejr/portfoliov3)
 
 - 🌱 I’m currently learning **Next.js and Wordpress**
