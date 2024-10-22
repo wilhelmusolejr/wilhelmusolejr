@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js and Wordpress**
 
-- 👨‍💻 All of my projects are available at [wilhelmus.vercel.app](wilhelmus.vercel.app)
+- 👨‍💻 All of my projects are available at [wilhelmus.vercel.app](wilhelmus.vercel.app?ref=github)
 
 - 💬 Ask me about **React and Laravel**
 
